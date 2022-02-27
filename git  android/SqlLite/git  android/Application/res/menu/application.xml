@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/item1" 
+          android:showAsAction="always" 
+          android:visible="true"
+          android:title="call"
+          android:icon="@drawable/call"/>
+    <item android:id="@+id/item2" 
+          android:showAsAction="always" 
+          android:visible="true"
+          android:title="settings"
+          android:icon="@drawable/sett"/>
+    <item android:id="@+id/item3" 
+          android:showAsAction="always" 
+          android:visible="true"
+          android:icon="@drawable/about"/>
+   <item android:id="@+id/item4" 
+          android:showAsAction="never" 
+          android:visible="true"
+        
+          />\
+  
+          
+    </menu>
